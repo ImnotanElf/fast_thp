@@ -1,0 +1,1 @@
+/usr/local/bin/g++-12  -O0 -Wall -g -ggdb -pthread -march=native -Wno-unused-variable -Wno-sign-compare -Wno-return-type -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/thp_binary.dir/src/main.cpp.o -o thp_binary  libthp_library.a 

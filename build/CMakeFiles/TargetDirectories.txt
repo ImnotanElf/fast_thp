@@ -1,0 +1,4 @@
+/Users/xsl/Desktop/code-files/CMake/Texas-holdem-poker/build/CMakeFiles/thp_library.dir
+/Users/xsl/Desktop/code-files/CMake/Texas-holdem-poker/build/CMakeFiles/thp_binary.dir
+/Users/xsl/Desktop/code-files/CMake/Texas-holdem-poker/build/CMakeFiles/edit_cache.dir
+/Users/xsl/Desktop/code-files/CMake/Texas-holdem-poker/build/CMakeFiles/rebuild_cache.dir
